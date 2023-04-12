@@ -11,7 +11,7 @@ Para contribuir com o repositório, siga os seguintes passos:
 - Faça um push do seu branch para o seu repositório no GitHub;
 - Abra um pull request para o repositório original.
 
-###Como usar os projetos
+### Como usar os projetos
 Para utilizar os projetos, basta clonar o repositório para a sua máquina local e navegar até a pasta correspondente ao jogo que deseja executar. Em seguida, execute o arquivo principal do jogo utilizando o interpretador de Python.
 
 ### Tipos de jogos
